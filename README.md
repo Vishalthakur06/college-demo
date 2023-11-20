@@ -1,2 +1,2 @@
 # college-demo
-This is first git Repository.
+This is first git Repository.Author - Vishal Thakur
